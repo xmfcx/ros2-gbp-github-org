@@ -2,8 +2,8 @@ locals {
   autoware_team = [
     "esteve",
     "mitsudome-r",
-    "youtalk",
     "xmfcx",
+    "youtalk",
   ]
 
   autoware_repositories = [
