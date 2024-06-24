@@ -3,6 +3,7 @@ locals {
     "esteve",
     "mitsudome-r",
     "youtalk",
+    "xmfcx",
   ]
 
   autoware_repositories = [
